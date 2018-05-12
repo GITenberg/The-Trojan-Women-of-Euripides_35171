@@ -1,0 +1,45 @@
+_repo: The-Trojan-Women-of-Euripides_35171
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Murray, Gilbert
+    aliases:
+    - Murray, George Gilbert Aimé
+    - Murray, George Gilbert Aime
+    birthdate: 1866
+    deathdate: 1957
+    gutenberg_agent_id: '1681'
+    url: http://www.gutenberg.org/2009/agents/1681
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Murray
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Euripides
+    alias: Ευριπίδης
+    deathdate: -406
+    gutenberg_agent_id: '1680'
+    url: http://www.gutenberg.org/2009/agents/1680
+    wikipedia:
+    - http://el.wikipedia.org/wiki/%CE%95%CF%85%CF%81%CE%B9%CF%80%CE%AF%CE%B4%CE%B7%CF%82
+    - http://en.wikipedia.org/wiki/Euripides
+description: ''
+gutenberg_issued: '2011-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35171'
+  lccn: 07028939
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Andromache (Legendary character) -- Drama'
+- !lcsh 'Helen, of Troy, Queen of Sparta -- Drama'
+- !lcsh 'Cassandra (Legendary character) -- Drama'
+- !lcsh 'Trojan War -- Drama'
+- !lcsh 'Hecuba, Queen of Troy -- Drama'
+title: The Trojan Women of Euripides
+url: http://www.gutenberg.org/ebooks/35171
