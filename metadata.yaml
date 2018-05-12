@@ -25,6 +25,8 @@ creator:
     - http://el.wikipedia.org/wiki/%CE%95%CF%85%CF%81%CE%B9%CF%80%CE%AF%CE%B4%CE%B7%CF%82
     - http://en.wikipedia.org/wiki/Euripides
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35171#The-Trojan-Women-of-Euripides
 gutenberg_issued: '2011-02-04'
 gutenberg_type: Text
 identifiers:
